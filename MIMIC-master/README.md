@@ -1,0 +1,2 @@
+# MIMIC
+MInimal MethylatIon Classifier
